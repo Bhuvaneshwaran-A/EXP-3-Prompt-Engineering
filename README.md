@@ -100,6 +100,8 @@ Artificial intelligence is rapidly evolving and is transforming industries such 
 
 ---
 
+
+
 ### **📌 Case 2: Technical Question Answering**
 
 **Prompt:**
@@ -131,6 +133,8 @@ Artificial intelligence is rapidly evolving and is transforming industries such 
 > **Result:** ⚠️ Minimal explanation | Functional | **Score: 3/5**
 
 ---
+
+
 
 ### **📌 Case 3: Summarizing Renewable Energy Text**
 
@@ -164,6 +168,8 @@ Renewable energy sources, such as solar, wind, and hydropower, are increasingly 
 > **Result:** ⚠️ Brief | Lacks context | **Score: 3/5**
 
 ---
+
+
 
 ## **📊 Comparative Evaluation**
 
@@ -202,4 +208,4 @@ The experiment revealed **ChatGPT** as the top-performing prompting tool in 2024
 
 ---
 
-## \*\*
+
